@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-A portfolio to demonstrate my data mining skills that is crucial for a data analyst
+A portfolio to demonstrate my data mining skills that is crucial for a data analyst.
 
 
 1.) Data wrangling (cleaning, processing, fill-in missing values, deal with duplicates, etc.) in Python (Pandas), Excel, etc.
