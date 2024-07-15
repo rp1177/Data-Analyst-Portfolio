@@ -3,7 +3,7 @@
 ### Purpose 
 This section aims to demonstrate advanced Microsoft Excel skills that involve building interactive dashboards for various datasets.
 
-## Skills demonstrated: 
+### Skills demonstrated: 
 - Data cleaning
 - Data formatting
 - Data extraction
