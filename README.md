@@ -12,7 +12,8 @@ A portfolio to demonstrate my data mining skills that is crucial for a data anal
 
 
 
-- For other Python-related Data Management Projects that specifically involve Pandas and CSV files check out this repository: https://github.com/rp1177/Data-Management-Projects
 
-- For Machine Learning projects check out this repository: https://github.com/rp1177/MachineLearning-Principles
+For other Python-related Data Management Projects that specifically involve Pandas and CSV files check out this repository: https://github.com/rp1177/Data-Management-Projects
+
+For Machine Learning projects check out this repository: https://github.com/rp1177/MachineLearning-Principles
 
